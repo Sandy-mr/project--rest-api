@@ -1,0 +1,14 @@
+{
+  "name": "otra",
+  "version": "1.0.0",
+  "description": "otra",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "freeman",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
